@@ -13,4 +13,4 @@ If you update wordpress you will propably need to repeat step 2. (replace the sm
 
 ## TODO ##
 
- - Big previw image with all smilies
+ - Big preview image with all smilies
