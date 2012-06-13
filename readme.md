@@ -9,3 +9,8 @@ Instructuions
 **Note:**
 
 If you update wordpress you will propably need to repeat step 2. (replace the smilies_init() functions again).
+
+
+## TODO ##
+
+ - Big previw image with all smilies
